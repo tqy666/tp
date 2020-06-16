@@ -7,5 +7,5 @@
  */
 namespace app\admin\route;
 use think\facade\Route;
-
+///
 Route::get('test','index/getshow');
