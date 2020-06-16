@@ -14,8 +14,9 @@ class Index{
 
     public function getshow(){
 
-        $newdata = new Test1();
-        $result = $newdata->select();
-        dump($result);
+//        $newdata = new Test1();
+//        $result = $newdata->select();
+//        dump($result);
+        echo 111;
     }
 }
